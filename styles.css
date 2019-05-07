@@ -1,0 +1,17 @@
+
+.container{
+display: flex;}
+
+.left{
+    width: 35%;
+}
+.right{
+    width:65%;
+    
+  
+    
+}
+.flet{
+    display: flex;
+    background-color:lightgray;}
+   .title {text-align: center;}
